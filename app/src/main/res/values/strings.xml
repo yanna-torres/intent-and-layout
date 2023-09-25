@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">intent-and-layout</string>
+    <string name="title">Intent Practices</string>
 </resources>
